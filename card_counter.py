@@ -2,6 +2,7 @@
 
 import streamlit as st
 
+
 hi_lo_values = {
     '2': 1, '3': 1, '4': 1, '5': 1, '6': 1,
     '7': 0, '8': 0, '9': 0,
